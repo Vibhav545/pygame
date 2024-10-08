@@ -1,5 +1,3 @@
-Pygame Front Page
-=================
 
 .. toctree::
    :maxdepth: 2
