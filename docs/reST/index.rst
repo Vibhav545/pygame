@@ -1,4 +1,4 @@
-Pygame Front Page
+
 =================
 
 .. toctree::
